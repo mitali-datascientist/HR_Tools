@@ -21,7 +21,7 @@ HR Analytics is all about understanding people and trends related to them.
  1) Employee with highest performance rating has greater satisfaction compare to those with lower rating . 
  2) Employees who left had lower salaries 
  
- Recommendations : 
+ ### Recommendations : 
  1) Ensure improved salary rate for employees 
  2) Create a friendly and comfortable office environment
  3) Develop strategies according to changing trends 
