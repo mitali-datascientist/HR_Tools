@@ -8,6 +8,8 @@ Further based on this analysis , I have created a predictive model that will hel
 
 Before diving into the code, you may read here to understand the basic terms being used throughout. 
 
+In the past, most of the focus on the ‘rates’ such as attrition rate and retention rates. HR Managers compute the previous rates try to predict the future rates using data warehousing tools. These rates present the aggregate impact of churn, but this is the half picture. Another approach can be the focus on individual records in addition to aggregate.
+
 ## HR Analytics 
 Often the data is in vast amount and handling it becomes a laborious task. But all of it can be managed simply by using Machine Learning. It will not only make the tasks easier for the HR and also allow them to focus on other areas as well. 
 
